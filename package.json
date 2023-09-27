@@ -1,5 +1,5 @@
 {
-  "name": "openaichat",
+  "name": "recaptchav3",
   "version": "0.0.1",
   "description": "Teste recaptcha v3",
   "main": "src/app.js",
