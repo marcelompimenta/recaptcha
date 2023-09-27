@@ -1,0 +1,15 @@
+{
+  "name": "openaichat",
+  "version": "0.0.1",
+  "description": "Teste recaptcha v3",
+  "main": "src/app.js",
+  "author": "marcelo pimenta",
+  "license": "true",
+  "private": false,
+  "scripts": {
+    "dev": "node ./config.js"
+  },
+  "dependencies": {
+    "openai": "^4.10.0"
+  }
+}
